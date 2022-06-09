@@ -30,3 +30,6 @@ category: FAQ
   Hello, {name}! 
 </div>
 ```
+```html 注释
+<div dangerouslySetInnerHTML={{__html: "<!--注释写在这里-->"}} />
+
